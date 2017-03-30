@@ -18,19 +18,3 @@ movies = {Star_Wars: 1977, Transformers: 2007, Invictus: 2009}
 cities = {Toronto: 36286245, Manila: 57470097, New_York: 19795791}
 
 siblings = {Roofus: 12, Jeanne: 33, Faith: 21}
-
-
-# exercise 1
-
-puts fave_colours.last
-
-cities[:Tehran] = 8154000
-puts cities
-
-puts coin_flip.reverse!
-
-puts cities[:Manila]
-
-puts "I think #{fave_artists[0]} is great"
-puts "I think #{fave_artists[1]} is great"
-puts "I think #{fave_artists[2]} is great"
